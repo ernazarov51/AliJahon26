@@ -1,0 +1,7 @@
+apps/migrations/*
+.idea/
+.venv/
+media/*
+
+
+
